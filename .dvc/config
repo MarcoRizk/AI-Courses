@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = /home/marco/Projects/Teaching/Data Science in Production/Session 3 Model and Data Versioning/data
