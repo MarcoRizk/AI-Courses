@@ -1,4 +1,6 @@
 [core]
-    remote = localremote
+    remote = mygdrive
 ['remote "localremote"']
     url = /home/marco/Projects/Teaching/Data Science in Production/Session 3 Model and Data Versioning/data
+['remote "mygdrive"']
+    url = gdrive://1OAQENrzc4SvHdivikJgqJ5lWwZBCpBwO
